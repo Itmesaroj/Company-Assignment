@@ -1,0 +1,8 @@
+# Node modules (massive folder, should not be pushed)
+node_modules/
+
+# Environment variables (secret keys, database URIs)
+.env
+
+
+serviceKey.json
